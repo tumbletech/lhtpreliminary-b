@@ -7,12 +7,12 @@ body {
 }
 
 a {
-  color: #106eea;
+  color: #aeb03f;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3b8af2;
+  color: #aeb03f;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #106eea;
+  border: 6px solid #aeb03f;
   border-top-color: #e2eefd;
   border-radius: 50%;
   width: 60px;
@@ -119,23 +119,23 @@ h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #106eea;
+  background: #aeb03f;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
-  color: #fff;
+  color: #292f40;
   padding: 0;
 }
 
 #topbar .contact-info i {
   font-style: normal;
-  color: #fff;
+  color: #292f40;
 }
 
 #topbar .contact-info i a,
 #topbar .contact-info i span {
   padding-left: 5px;
-  color: #fff;
+  color: #292f40;
 }
 
 #topbar .contact-info i a {
@@ -150,7 +150,7 @@ h6 {
 }
 
 #topbar .social-links a {
-  color: rgba(255, 255, 255, 0.7);
+  color: #292f40;
   line-height: 0;
   transition: 0.3s;
   margin-left: 20px;
@@ -168,7 +168,7 @@ h6 {
   background: #292f40;
   transition: all 0.5s;
   z-index: 997;
-  height: 86px;
+  height: 90px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -191,7 +191,7 @@ h6 {
 }
 
 #header .logo a span {
-  color: #106eea;
+  color: #aeb03f;
 }
 
 #header .logo img {
@@ -258,7 +258,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #106eea;
+  background-color: #aeb03f;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
